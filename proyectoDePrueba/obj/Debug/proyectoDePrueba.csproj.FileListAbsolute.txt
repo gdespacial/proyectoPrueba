@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\bin\Debug\proyectoDePrueba.exe.config
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\bin\Debug\proyectoDePrueba.exe
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\bin\Debug\proyectoDePrueba.pdb
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.proyectoPrueba.resources
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.exe
+C:\Users\Usuario\Desktop\ProgramacionGit\proyectoPrueba\proyectoDePrueba\obj\Debug\proyectoDePrueba.pdb
