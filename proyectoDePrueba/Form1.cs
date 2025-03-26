@@ -21,5 +21,15 @@ namespace proyectoDePrueba
         {
 
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola, Bienvenidos ");
+        }
+
+        private void proyectoPrueba_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            MessageBox.Show("Adios");
+        }
     }
 }
